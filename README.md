@@ -1,2 +1,3 @@
-# sales_control_app
-A app to control the Product sales of a small stores, made in C# and WinForms.
+# Sales Control System (SCS)
+
+## An app to control the sales of products of stores and markets, built in .NET for Windows.
